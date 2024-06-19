@@ -20,5 +20,5 @@
 * An active Azure Subscription
 
 ## Download
-- [Translator Management](/releases/tag/CoreComponents)
-- [Translator App](/releases/tag/TranslatorApp)
+- [Translator Management](https://github.com/nschreder/translator/releases/tag/CoreComponents)
+- [Translator App](https://github.com/nschreder/translator/releases/tag/TranslatorApp)
