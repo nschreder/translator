@@ -32,7 +32,7 @@ We recommend that you create connections to all connectors used in the solution 
     3. **Microsoft Dataverse**: Connect with your personal or service principal credentials.
     4. **Microsoft Translator (Documents)**: Connect with your Azure Translator service for document services.
     4. **Microsoft Translator (Text)**: Connect with your Azure Translator service for text service.
-4. In the net step, you configure environment variable values:
+4. In the next step, you configure environment variable values:
     1. **Document Expiration**: Decimal number, the time in hours a document is valid and can be downloaded by the users. Example: **'72'**.
     2. **Storage Account Base**: Url (Text), the base url from your storage account. Example: **'https://[NAME_OF_YOUR_STORAGE_ACCOUNT].blob.core.windows.net'**.
 5. After the solution import is successful, open the solution in the solution explorer and run the Power Automate flow **'Initial Setup'**. This flow connects to the Azure services and imports all necessary data.
