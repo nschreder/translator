@@ -2,6 +2,8 @@
 
 **Content**
 1. [Technical Requirements](#Technical-Requirements)
+2. [Download](#Download)
+3. [Installation](/Readme/installation.md)
 
 ## Technical Requirements
 * Power Apps Premium or per App Licence
@@ -13,3 +15,6 @@
   * [Microsoft Translator (V2)](https://learn.microsoft.com/en-us/connectors/translatorv2/)
   * [Microsoft Translator (V3)](https://learn.microsoft.com/en-us/connectors/microsofttranslatorv/)
 * An active Azure Subscription
+
+## Download
+- [Translator Management]()
