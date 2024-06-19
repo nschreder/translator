@@ -1,6 +1,6 @@
 # Set up translator core components
 
-This article helps you set up the core components of the Translator app. The core components are the foundation of the Translator app, containing providing insights and customization option to tailor the solution based on your requirements.
+This article helps you set up the core components of the Translator app. The core components are the foundation of the service, containing providing insights and customization option to tailor the solution based on your requirements.
 
 ## Before you start
 
