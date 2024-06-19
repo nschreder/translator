@@ -6,9 +6,9 @@ This article helps you set up the core components of the Translator app. The cor
 
 ### Create Azure services
 The core component solution requires several Azure services which you must create first.
-1. [Azure Storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal)
-2. [Azure Speech service](https://portal.azure.com/#create/Microsoft.CognitiveServicesSpeechServices)
-3. [Azure Translator](https://learn.microsoft.com/en-us/azure/ai-services/translator/create-translator-resource). Important: Only **'Global'** location subscription keys are supported.
+1. [Azure Storage account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal): This service is needed to temporarily store documents for the translation service.
+2. [Azure Speech service](https://portal.azure.com/#create/Microsoft.CognitiveServicesSpeechServices): This service is needed to use the text to speech capabilities in the translation service.
+3. [Azure Translator](https://learn.microsoft.com/en-us/azure/ai-services/translator/create-translator-resource). This service is needed to translate text and documents. **Important**: Only **'Global'** location subscription keys are supported.
 
 ### Create connections
 We recomment that you create connections to all connectors used in the solution prior to importing the core component solution. This makes the setup faster.
