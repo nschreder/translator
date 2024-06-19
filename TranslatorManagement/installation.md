@@ -23,7 +23,7 @@ We recomment that you create connections to all connectors used in the solution 
     5. [Microsoft Translator (V3)](https://learn.microsoft.com/en-us/connectors/microsofttranslatorv/)
   
 ## Set up the Translator core components
-1. Download the latest release of the [core components](/releases/tag/CoreComponents) solution to your computer.
+1. Download the latest release of the [core components](https://github.com/nschreder/translator/releases/tag/CoreComponents) solution to your computer.
 2. Import the **'TranslatorCoreComponents_x_x_x_xx_managed.zip'** solution file. If you are not sure how to import a solution, you can check this [guide](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/import-update-export-solutions).
 3. During solution import, you configure environment variable values. Make sure to have the following information ready:
     1. Document Expiration: Decimal number, the time in hours a document is valid and can be downloaded by the users. Example: **'72'**.
