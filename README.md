@@ -4,9 +4,9 @@
 1. [Technical Requirements](#Technical-Requirements)
 2. [Download](#Download)
 3. Installation
-   1. [Translation Management](/TranslationManagement/installation.md)
+   1. [Translation Management](/TranslatorManagement/installation.md)
    2. [Translation App]()
-4. [Customization](/TranslationManagement/customization.md)
+4. [Customization](/TranslatorManagement/customization.md)
 
 ## Technical Requirements
 * Power Apps Premium or per App Licence
