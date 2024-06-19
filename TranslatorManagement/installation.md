@@ -31,4 +31,4 @@ We recommend that you create connections to all connectors used in the solution 
 4. After the solution import is successful, open the solution in the solution explorer and run the Power Automate flow **'Initial Setup'**. This flow connects to the Azure services and imports all necessary data.
 
 ## Customization
-After the setup, you are able to start with the [customization](/customization.md) of the translation solution.
+After the setup, you are able to start with the [customization](/TranslatorManagement/customization.md) of the translation solution.
