@@ -27,11 +27,11 @@ We recommend that you create connections to all connectors used in the solution 
 1. Download the latest release of the [core components](https://github.com/nschreder/translator/releases/tag/CoreComponents) solution to your computer.
 2. Import the **'TranslatorCoreComponents_x_x_x_xx_managed.zip'** solution file. If you are not sure how to import a solution, you can check this [guide](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/import-update-export-solutions).
 3. During solution import, you configure connection references. Make sure to have the following information ready:
-    1. **Azure Blob Storage**: Connect with your Azure Storage account.
-    2. **Azure Text to Speech**: Connect with your Azure Speech serivce.
+    1. **Azure Blob Storage**: Connect with your Azure Storage account service.
+    2. **Azure Text to Speech**: Connect with your Azure Speech service.
     3. **Microsoft Dataverse**: Connect with your personal or service principal credentials.
-    4. **Microsoft Translator (Documents)**: Connect with your Azure Translator service for documents.
-    4. **Microsoft Translator (Text)**: Connect with your Azure Translator service for text.
+    4. **Microsoft Translator (Documents)**: Connect with your Azure Translator service for document services.
+    4. **Microsoft Translator (Text)**: Connect with your Azure Translator service for text service.
 4. In the net step, you configure environment variable values:
     1. **Document Expiration**: Decimal number, the time in hours a document is valid and can be downloaded by the users. Example: **'72'**.
     2. **Storage Account Base**: Url (Text), the base url from your storage account. Example: **'https://[NAME_OF_YOUR_STORAGE_ACCOUNT].blob.core.windows.net'**.
