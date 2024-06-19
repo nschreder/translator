@@ -1,6 +1,6 @@
 # Set up translator core components
 
-This article helps you set up the core components of the Translator app. The core components are the foundation of the service, containing providing insights and customization option to tailor the solution based on your requirements.
+This article helps you set up the core components of the Translator app. The core components are the foundation of the service, providing insights and offering customization options to tailor the solution based on your requirements.
 
 ## Before you start
 
@@ -11,7 +11,7 @@ The core component solution requires several Azure services which you must creat
 3. [Azure Translator](https://learn.microsoft.com/en-us/azure/ai-services/translator/create-translator-resource). This service is needed to translate text and documents. **Important**: Only **'Global'** location subscription keys are supported.
 
 ### Create connections
-We recomment that you create connections to all connectors used in the solution prior to importing the core component solution. This makes the setup faster.
+We recommend that you create connections to all connectors used in the solution prior to importing the core component solution. This makes the setup process faster.
 1. Go to [Power Apps](https://make.powerapps.com/).
 2. Select the environment you want to deploy the Translator solution.
 3. Go to **'Connections > + New connection'**.
@@ -31,4 +31,4 @@ We recomment that you create connections to all connectors used in the solution 
 4. After the solution import is successful, open the solution in the solution explorer and run the Power Automate flow **'Initial Setup'**. This flow connects to the Azure services and imports all necessary data.
 
 ## Customization
-After the set up you are able to start with the [customization](customization.md) of the translation solution.
+After the setup, you are able to start with the [customization](/customization.md) of the translation solution.
