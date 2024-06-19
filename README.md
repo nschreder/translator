@@ -6,6 +6,7 @@
 3. Installation
    1. [Translation Management](/TranslationManagement/installation.md)
    2. [Translation App]()
+4. [Customization](/TranslationManagement/customization.md)
 
 ## Technical Requirements
 * Power Apps Premium or per App Licence
