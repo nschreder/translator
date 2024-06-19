@@ -3,7 +3,8 @@
 **Content**
 1. [Technical Requirements](#Technical-Requirements)
 2. [Download](#Download)
-3. [Installation](/Readme/installation.md)
+3. Installation
+   1. [Translation Management](/TranslationManagement/installation.md) 
 
 ## Technical Requirements
 * Power Apps Premium or per App Licence
@@ -17,4 +18,5 @@
 * An active Azure Subscription
 
 ## Download
-- [Translator Management]()
+- [Translator Management](https://github.com/nschreder/translator/raw/main/TranslatorManagement/TranslatorCoreComponents_0_9_0_0_managed.zip)
+- [Translator App](https://github.com/nschreder/translator/raw/main/TranslatorManagement/TranslatorCoreComponents_0_9_0_0_managed.zip)
