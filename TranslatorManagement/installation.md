@@ -20,8 +20,8 @@ We recommend that you create connections to all connectors used in the solution 
     1. [Azure Blob Storage](https://learn.microsoft.com/en-us/connectors/azureblob/): Connect with your Azure Storage account service.
     2. [Azure Text to Speech](https://learn.microsoft.com/en-us/connectors/azuretexttospeech/): Connect with your Azure Speech service.
     3. [Microsoft Dataverse](https://learn.microsoft.com/en-us/connectors/commondataserviceforapps/): Connect with your personal or service principal credentials.
-    4. [Microsoft Translator (V2)](https://learn.microsoft.com/en-us/connectors/translatorv2/): Connect with your Azure Translator service for document services.
-    5. [Microsoft Translator (V3)](https://learn.microsoft.com/en-us/connectors/microsofttranslatorv/): Connect with your Azure Translator service for text service.
+    4. [Microsoft Translator (V2)](https://learn.microsoft.com/en-us/connectors/translatorv2/): Connect with your Azure Translator service for text service.
+    5. [Microsoft Translator (V3)](https://learn.microsoft.com/en-us/connectors/microsofttranslatorv/): Connect with your Azure Translator service for document services.
   
 ## Set up the Translator core components
 1. Download the latest release of the [core components](https://github.com/nschreder/translator/releases/tag/CoreComponents) solution to your computer.
