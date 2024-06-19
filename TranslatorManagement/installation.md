@@ -12,8 +12,8 @@ The core component solution requires several Azure services which you must creat
 
 ### Create connections
 We recomment that you create connections to all connectors used in the solution prior to importing the core component solution. This makes the setup faster.
-1. Go to [Power Apps](https://make.powerapps.com/)
-2. Select the environment you want to deploy the Translator solution
+1. Go to [Power Apps](https://make.powerapps.com/).
+2. Select the environment you want to deploy the Translator solution.
 3. Go to **'Connections > + New connection'**.
 4. Create connections for the following connectors using your credentials or a service account (if supported by connector):
     1. [Azure Blob Storage](https://learn.microsoft.com/en-us/connectors/azureblob/)
